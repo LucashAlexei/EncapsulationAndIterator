@@ -1,11 +1,16 @@
 import java.util.Scanner;
 
 public class Main {
+    //My Program
+    //version 4 test for git hub
+    //22.09.2020
+
     public static void main(String []args){
         boolean bool = true;
         Scanner input = new Scanner(System.in);
         SortClass srt = new SortClass();
         int c = 0;
+        System.out.println("This is second version! For github branch!");
         while(bool) {
             try {
                 //MainTest obj = (MainTest) Class.forName("MainTest").newInstance();
